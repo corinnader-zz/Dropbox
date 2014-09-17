@@ -14,7 +14,7 @@ Completed user stories:
  * [x] Required: User can follow the create user flow.
    * [x] User can tap the area for "Having trouble signing in?"
    * [x] User can log out from the Settings screen.
- * [x] Requiredl: User can follow the sign in flow.
+ * [x] Required: User can follow the sign in flow.
  
 
 Walkthrough of all user stories:
