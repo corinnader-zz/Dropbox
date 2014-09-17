@@ -1,19 +1,17 @@
 //
-//  ScrollSettingsViewController.swift
+//  TermsViewController.swift
 //  Dropbox
 //
-//  Created by Corin Nader on 9/15/14.
+//  Created by Corin Nader on 9/16/14.
 //  Copyright (c) 2014 Corin Nader. All rights reserved.
 //
 
 import UIKit
 
-class ScrollSettingsViewController: UIViewController {
+class TermsViewController: UIViewController {
 
-    @IBOutlet weak var scrollView: UIScrollView!
     override func viewDidLoad() {
-        super.viewDidLoad(scrollView.contentSize = CGSize(width: 320, height: 1144)
-)
+        super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
@@ -23,6 +21,9 @@ class ScrollSettingsViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func clickDoneTerms(sender: AnyObject) {
+        dismissViewControllerAnimated(true, completion: nil)
+    }
 
     /*
     // MARK: - Navigation
