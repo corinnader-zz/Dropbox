@@ -1,8 +1,8 @@
 #Dropbox Prototype
 
-This is prototype created in swift to demonstrate the onboarding and signup flows for the IOS Dropbox app. 
+This is a prototype created in swift to demonstrate the onboarding and signup flows for the IOS Dropbox app. 
 
-Time spent: 12 hours spent in total
+Time spent: 12 hours
 
 Completed user stories:
 
