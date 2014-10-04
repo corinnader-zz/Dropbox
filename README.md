@@ -1,10 +1,12 @@
-#Dropbox Prototype
+#Week 1 Project: Dropbox
 
-This is a prototype created in swift to demonstrate the onboarding and signup flows for the IOS Dropbox app. 
+##Overview
+This is a prototype created in swift to prototype the Dropbox app from the signed out state to the basic signed in state. The purpose of this homework is to use Xcode to implement the flow between the screens of an application. 
 
-Time spent: 12 hours
+###Time spent: 
+12 hours
 
-Completed user stories:
+###Completed user stories:
 
  * [x] Required: User can tap through the 3 welcome screens.
    * [x] On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.
